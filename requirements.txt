@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib
+st-cytoscape
+scikit-learn
